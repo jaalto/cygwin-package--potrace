@@ -1,0 +1,2 @@
+tag1: potrace
+  http://packages.debian.org/unstable/potrace pregexp:orig.tar.gz file:potrace_1.8.orig.tar.gz new: x:
