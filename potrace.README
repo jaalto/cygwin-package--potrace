@@ -17,14 +17,13 @@ PGM (for easy antialiasing). Additional backends might be added in the
 future.
 
 Runtime requirements:
-  cygwin
-  zlib
+  zlib0
 
 Build requirements:
-  cygwin
-  zlib
+  zlib-devel
 
 Canonical homepage:
+  http://freecode.com/projects/potrace
   http://www.sourceforge.net/projects/potrace
   http://packages.debian.org/potrace
 
@@ -63,14 +62,17 @@ Build instructions:
 ------------------------------------------
 
 Files included in the binary distribution:
-  See content of *.tar.gz
+  See Cygwin package archive
 
 ------------------------------------------
 
 Port Notes:
 
+----- version 1.10-1 -----
+- New upstream release 2012-09-19 Jari Aalto
+
 ----- version 1.8-1 -----
 - Initial release 2008-02-28 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2012 Jari Aalto; Licensed under GPL v2 or later

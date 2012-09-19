@@ -1,11 +1,10 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: package N.N
-Subject: New package: package 1.8-1 -- Utility to transform bitmaps into vector graphics
+Subject: Updated: potrace 1.10-1 -- Utility to transform bitmaps into vector graphics
 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://www.sourceforge.net/projects/potrace
+Homepage: http://freecode.com/projects/potrace
 License : GPL
 
 Utility for tracing a bitmap, which means, transforming a bitmap into
@@ -19,13 +18,15 @@ rendered at any resolution.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-See /usr/share/doc/potrace-*/ChangeLog
+See Homepage for release annoucements.
+
+Also /usr/share/doc/potrace-*/ChangeLog
 and /usr/share/doc/potrace-*/NEWS
 
 INSTALL OR UPGRADE NOTES
 ========================
 
-<if anything to watch out>
+Standard install.
 
 CYGWIN INSTALLATION INFORMATION
 ===============================
@@ -36,11 +37,11 @@ system. Then, run setup and answer all of the questions. You'll find
 the package listed in the "All" category. After installation, read the
 documentation at directories:
 
-    /usr/share/doc/<package-version>/*
+    /usr/share/doc/<package>/*
     /usr/share/doc/Cygwin/<package-version>.README
 
 If you have questions or comments, please send them to the Cygwin
-mailing list at <cygwin@cygwin.com>.
+mailing list at <cygwin(at)cygwin.com>.
 
 CYGWIN-ANNOUNCE UNSUBSCRIBE INFO
 ================================
@@ -51,7 +52,7 @@ If you want to unsubscribe from the mailing list, look at the
 "List-Unsubscribe: " tag in the email header of this message. Send
 email to the address specified there. It will be in the format:
 
-    cygwin-announce-unsubscribe-you=yourdomain.com@cygwin.com
+    cygwin-announce-unsubscribe-you=yourdomain.com(at)cygwin.com
 
 More information on unsubscribing can be found:
 

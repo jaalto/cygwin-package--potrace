@@ -7,4 +7,4 @@ company or university logos, handwritten notes, etc. The resulting
 image is not jaggy like a bitmap, but smooth. It can then be
 rendered at any resolution."
 category: Graphics
-requires: cygwin zlib
+requires: zlib0
