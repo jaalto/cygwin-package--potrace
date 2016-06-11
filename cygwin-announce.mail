@@ -5,7 +5,7 @@ Subject: Updated: potrace 1.13-1 -- Utility to transform bitmaps into vector gra
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://freecode.com/projects/potrace
+Homepage: http://www.sourceforge.net/projects/potrace
 License : GPL
 
 Utility for tracing a bitmap, which means, transforming a bitmap into
